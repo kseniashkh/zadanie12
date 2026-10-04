@@ -1,0 +1,29 @@
+html{
+    background: url(../img/photo\ 3.jpg) repeat-y right;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.blue{
+    color: darkblue;
+}
+.over{
+    color: aquamarine;
+    text-decoration: overline orange;
+}
+
+.crazy-border{
+    border-top: 30px solid blueviolet;
+    border-right: dashed 20px darkcyan;
+    border-bottom: violet 20px inset;
+    border-left: dotted 10px red;
+}
+.ol{
+    list-style: lower-greek;
+}
+.ul{
+    list-style: square;
+}
